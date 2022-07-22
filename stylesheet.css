@@ -171,8 +171,7 @@ section {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    
-    
+    gap: 25px;
 }
 
 .singleNews {
@@ -194,11 +193,6 @@ footer {
     line-height: 21px;
     font-size: 16px;
     color: #949494;
-}
-
-.testbox {
-
-    overflow: hidden;
 }
 
 .testbox img {
